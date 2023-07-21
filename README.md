@@ -6,7 +6,7 @@ Part Time AI Research Engineer
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [mustafacannacak55@gmail.com](mailto:mustafacannacak55@gmail.com)
-* 🧠  I'm learning AI for Medicine
+* 🧠  I'm learning Data Analysis with Python
 
 ### Skills
 
